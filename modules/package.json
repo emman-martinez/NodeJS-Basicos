@@ -1,0 +1,24 @@
+{
+    "name": "nodejs-curso",
+    "version": "0.0.1",
+    "description": "Un curso de nodejs",
+    "main": "index.js",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "express": "^4.17.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Emasesosos/NodeJS-Basicos.git"
+    },
+    "author": "Emmanuel Martínez",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Emasesosos/NodeJS-Basicos/issues"
+    },
+    "homepage": "https://github.com/Emasesosos/NodeJS-Basicos#readme"
+}
